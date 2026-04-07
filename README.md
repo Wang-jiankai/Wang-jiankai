@@ -30,9 +30,14 @@ Python / AI · Building things that work
 
 | Project | Description |
 |---------|-------------|
-| [what-is-agent](https://github.com/Wang-jiankai/what-is-agent) | Learn Agent concepts with Claude Agent SDK |
-| [what-is-mcp](https://github.com/Wang-jiankai/what-is-mcp) | Learn MCP protocol from scratch |
-| [what-is-skill](https://github.com/Wang-jiankai/what-is-skill) | Write Agent Skills (SOP for AI) |
+| [agent_system](https://github.com/Wang-jiankai/agent_system) | CrewAI + Claude Code dual-agent for automated repo maintenance |
+| [agency-agents](https://github.com/Wang-jiankai/agency-agents) | Multi-agent collaboration system with specialized roles |
+| [what-is-agent](https://github.com/Wang-jiankai/what-is-agent) | Learn Agent concepts — planning, memory, tools, MCP |
+| [what-is-mcp](https://github.com/Wang-jiankai/what-is-mcp) | Build MCP servers, tools and resources |
+| [what-is-skill](https://github.com/Wang-jiankai/what-is-skill) | Write reusable Skills (SOP for AI) |
+| [RichBloom](https://github.com/Wang-jiankai/RichBloom) | Value investor's wealth management app |
+| [Auto-Coverity](https://github.com/Wang-jiankai/Auto-Coverity) | Automated code quality scan & report pipeline |
+| [Pet-Locker](https://github.com/Wang-jiankai/Pet-Locker) | MCU-based pet locker system |
 
 ---
 
