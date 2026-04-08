@@ -1,28 +1,32 @@
-<!--   my-header-img -->
-![](./src/header_.png)
+<p align="center">
+  <img src="./src/header_.png" alt="header" style="border-radius:8px;">
+</p>
 
-## Hi, I'm Wang-jiankai 👋
+<h1 align="center">Hi, I'm Wang-jiankai 👋</h1>
 
-Python / AI · Building things that work
+<p align="center"><em>Python / AI · Building things that work</em></p>
 
 <p align="center">
-<a href="https://github.com/Wang-jiankai/Wang-jiankai"><img src="https://img.shields.io/github/followers/Wang-jiankai?color=4C8CBF&logo=github&style=flat-square" alt="followers"></a>
-<a href="https://github.com/Wang-jiankai/Wang-jiankai/stargazers"><img src="https://img.shields.io/github/stars/Wang-jiankai?color=FF6600&logo=github&style=flat-square" alt="stars"></a>
-<a href="https://github.com/Wang-jiankai/Wang-jiankai"><img src="https://img.shields.io/github/repos/Wang-jiankai/Wang-jiankai?color=01D277&logo=github&style=flat-square" alt="repos"></a>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Wang-jiankai.Wang-jiankai&color=4C8CBF" alt="visitors"/>
+  <a href="https://github.com/Wang-jiankai/Wang-jiankai"><img src="https://img.shields.io/github/followers/Wang-jiankai?color=4C8CBF&logo=github&style=flat-square" alt="followers"></a>
+  <a href="https://github.com/Wang-jiankai/Wang-jiankai/stargazers"><img src="https://img.shields.io/github/stars/Wang-jiankai?color=FF6600&logo=github&style=flat-square" alt="stars"></a>
+  <a href="https://github.com/Wang-jiankai/Wang-jiankai"><img src="https://img.shields.io/github/repos/Wang-jiankai/Wang-jiankai?color=01D277&logo=github&style=flat-square" alt="repos"></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Wang-jiankai.Wang-jiankai&color=4C8CBF" alt="visitors"/>
 </p>
 
 ---
 
 ### 🛠 Tech Stack
 
-**Languages** · Python · C · C++ · Bash · TypeScript
+<p align="center">
 
-**AI / ML** · PyTorch · TensorFlow · Scikit-learn · OpenCV · Jupyter
+| | | | |
+|:--|:--|:--|:--|
+| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" /> | <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> | <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> | <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" /> | <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" /> | <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> | <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> | <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" /> | <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> | <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" /> |
 
-**Backend** · Django · FastAPI · PostgreSQL · MySQL · Redis
-
-**DevOps** · Docker · Git · GitHub Actions · Linux
+</p>
 
 ---
 
@@ -41,7 +45,9 @@ Python / AI · Building things that work
 
 ### 📍 Find me
 
-<a href="https://github.com/Wang-jiankai"><img src="https://img.shields.io/badge/-GitHub-222?style=flat&logo=github" alt="GitHub"></a>
+<p align="center">
+  <a href="https://github.com/Wang-jiankai"><img src="https://img.shields.io/badge/-GitHub-222?style=flat&logo=github" alt="GitHub"></a>
+</p>
 
 ---
 
