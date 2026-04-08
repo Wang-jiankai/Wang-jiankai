@@ -17,14 +17,14 @@
 
 ### 🛠 Tech Stack
 
-| Category | Technologies |
-|:--------:|:------------|
-| 💻 Languages | Python · TypeScript · Swift · C · C++ · Bash |
-| 🤖 AI / Agent | PyTorch · TensorFlow · CrewAI · LangChain · Claude Code · MCP |
-| 🌐 Backend | Django · FastAPI · PostgreSQL · Redis |
-| 💡 Frontend / Mobile | React · Tailwind CSS · Vite · Bun · SwiftUI · SwiftData |
-| 🔧 DevOps / Infra | Docker · GitHub Actions · Linux · Playwright · Vitest · ESLint |
-| ⚙️ Embedded | FreeRTOS · ARM Cortex-M · STM32 |
+| | |
+|:--|--|
+| 💻 **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
+| 🤖 **AI / Agent** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![CrewAI](https://img.shields.io/badge/CrewAI-0066FF?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-324B32?style=flat-square&logo=langchain&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude%20Code-0261A1?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-0261A1?style=flat-square) |
+| 🌐 **Backend** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| 💡 **Frontend / Mobile** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-624A2E?style=flat-square&logo=bun&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=flat-square&logo=swift&logoColor=white) ![SwiftData](https://img.shields.io/badge/SwiftData-FA7343?style=flat-square&logo=swift&logoColor=white) |
+| 🔧 **DevOps / Infra** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Playwright](https://img.shields.io/badge/Playwright-45ba4c?style=flat-square&logo=playwright&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white) |
+| ⚙️ **Embedded** | ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-26a269?style=flat-square&logo=freertos&logoColor=white) ![ARM Cortex-M](https://img.shields.io/badge/ARM%20Cortex--M-00979d?style=flat-square) ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square) |
 
 ---
 
